@@ -1,0 +1,5 @@
+{
+  "name": "Générateur d'Animaux Féeriques",
+  "description": "Une application web amusante pour les enfants qui utilise l'IA pour générer des images d'animaux féeriques et magiques à partir de descriptions textuelles.",
+  "requestFramePermissions": []
+}
